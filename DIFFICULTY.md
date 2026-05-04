@@ -22,16 +22,16 @@ Reference Mods
 ---
 Arbitrarily assigning difficulties does not make sense, so we have picked reference mods to establish what each difficulty means. All the mods are ranked on "Insane" or the equivalent hardest difficulty, with no cheats or self imposed challenges.
 
-- X: Stick War 2 Kaizo
+- X:Kaizo
 	- X-:
 	- A+:
-- A: Stick War 2+ Episode 2
-	- A-: Stick War 2 Hell on Earth
+- A:Episode 2
+	- A-:Hell on Earth
 	- B+: The Mysterious Unknown (Unnerfed)
-- B: Stick War 2 Chaos Retaliation
+- B:Chaos Retaliation
 	- B-:
 	- C+:
-- C: Stick War 2 Chaos Campaign
+- C:Chaos Campaign
 	- C-:
 	- D+: Stick War 1
 - D: Stick War 2
