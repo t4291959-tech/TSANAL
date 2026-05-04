@@ -2,38 +2,38 @@
 
 ## Mod Browser License
 The mod browser is open source and is licensed under the Apache 2 license.  
-The Stick War mods hosted here are not open source. They are subject to the terms and information in the rest of this file.
+The mods hosted here are not open source. They are subject to the terms and information in the rest of this file.
 
-## Copyright & Warranty Regarding Stick War Mods:
-Stick War and Stick Empires is made by JASON WHITHAM (CRAZYJAY), BROCK WHITE (BROCKEMON), WINSTON ZHANG, ELI PIILONEN (2DARRAY).
+## Copyright & Warranty Regarding Mods:
+games and mods is made by PEOPLES (ACCOUNTS), OTHER PEOPLES (OTHER ACCOUNTS), OTHER AI, AI (ARCANE).
 All rights reserved to the original authors.
 There is NO WARRANTY whatsoever when it comes to mods hosted here.
 
-## Terms of Stick War Mods:
-1. You MAY mod Stick War 2, Stick War 1, and old versions of Stick Empires.
-2. You may NOT claim ownership of the Stick War series and code, in part or full.
-3. You may NOT claim ownership of any Stick War mod you have not created. This includes, but is not limited to:
+## Terms of Mods:
+1. You MAY mod Projects, Swf, and old versions of exe.
+2. You may NOT claim ownership of the games series and code, in part or full.
+3. You may NOT claim ownership of any games mod you have not created. This includes, but is not limited to:
     - Custom Music.
     - Custom Assets.
     - Custom Story.
 4. You may NOT create malware or other software designed to cause harm or damage.
-5. You may NOT create mods for Stick Empires that allow you to cheat or give you an unfair advantage in the multiplayer game.
+5. You may NOT create mods for exe that allow you to cheat or give you an unfair advantage in the game.
 6. You may NOT modify other people's mods without permission.
 7. Only upload your own work using pull requests, thanks.
 
 
-When it comes to modding Stick Empires multiplayer, consult the Stick Empires terms of service (attached below). Thanks.
+When it comes to modding games, consult the Stick Empires terms of service (attached below). Thanks.
 
 
-Stick Empires Terms Of Service
+Terms Of Service
 ---
-Stick Empire™, StickEmpires™, SE, are the copyrighted work of 1004319 O/A Jays Webworks. Use of Stick Empires™ is governed by the terms of use provided below ("Stick Empires™ Terms of Use"). Stick Empires™ is provided "as is" according to the terms of conditions contained herein. Any use of Stick Empires™ not in accordance with the terms of the Stick Empires™ Terms of Use is expressly prohibited.
+games, games, swf/sb/exe, are the copyrighted work of 1004319 O/A Jays Webworks. Use of games is governed by the terms of use provided below ("Games Terms of Use"). Stick Empires™ is provided "as is" according to the terms of conditions contained herein. Any use of games not in accordance with the terms of the games Terms of Use is expressly prohibited.
 
-1. Grant of License. 1004319 O/A Jays Webworks hereby grants, and by using Stick Empires™ you thereby accept, a limited, personal, non-exclusive license and right to use Stick Empires™ using either a home, work, or portable computer. Subject to the foregoing Grant of License, you may not remove any proprietary notices or labels on Stick Empires™ without the prior consent, in writing, of 1004319 O/A Jays Webworks. 1004319 O/A Jays Webworks reserves the right for any reason to remove, without notice, any content of Stick Empires™ received from users, including without limitation, bulletin board postings. 1004319 O/A Jays Webworks reserves the right to deny, at its sole discretion, any user access to Stick Empires™ or any portion thereof without notice. Without limiting the foregoing, 1004319 O/A Jays Webworks retains the right to decline service to any user who violates the Stick Empires™ Terms of Use.
+1. Grant of License. 1004319 O/A Jays Webworks hereby grants, and by using games you thereby accept, a limited, personal, non-exclusive license and right to use games using either a home, work, or portable computer. Subject to the foregoing Grant of License, you may not remove any proprietary notices or labels on games without the prior consent, in writing, of 1004319 O/A Jays Webworks. 1004319 O/A Jays Webworks reserves the right for any reason to remove, without notice, any content of games received from users, including without limitation, bulletin board postings. 1004319 O/A Jays Webworks reserves the right to deny, at its sole discretion, any user access to games™ or any portion thereof without notice. Without limiting the foregoing, 1004319 O/A Jays Webworks retains the right to decline service to any user who violates the games™ Terms of Use.
 
-2. Registration Information. To register your account on Stick Empires™, you will be required to provide your username and password. This information is used to identify you as a "unique user" of Stick Empires™. In the event that 1004319 O/A Jays Webworks learns that you have provided 1004319 O/A Jays Webworks with false or misleading registration information, 1004319 O/A Jays Webworks reserves the right to terminate your Stick Empires™ account.
+2. Registration Information. To register your account on games, you will be required to provide your username and password. This information is used to identify you as a "unique user" of games. In the event that 1004319 O/A Jays Webworks learns that you have provided 1004319 O/A Jays Webworks with false or misleading registration information, 1004319 O/A Jays Webworks reserves the right to terminate your games™ account.
 
-3. Ownership. All title, ownership, and intellectual property rights in and to Stick Empires™ (including, but not limited to, any titles, computer code, themes, objects, characters, character names, stories, dialog, catch phrases, locations, concepts, artwork, animation, sounds, musical compositions, audiovisual effects, methods of operation, moral rights, any related documentation, "applets" incorporated into Stick Empires™, transcripts of the chat rooms, member profile information, recordings of games played on Stick Empires™, and software) are owned by 1004319 O/A Jays Webworks. All rights are reserved. Stick Empires™ is protected by the copyright laws of United States, Canada, and the European Union.
+3. Ownership. All title, ownership, and intellectual property rights in and to games™ (including, but not limited to, any titles, computer code, themes, objects, characters, character names, stories, dialog, catch phrases, locations, concepts, artwork, animation, sounds, musical compositions, audiovisual effects, methods of operation, moral rights, any related documentation, "applets" incorporated into Stick Empires™, transcripts of the chat rooms, member profile information, recordings of games played on games™, and software) are owned by 1004319 O/A Jays Webworks. All rights are reserved. Stick Empires™ is protected by the copyright laws of United States, Canada, and the European Union.
 
 4. Your Use of Stick Empires™.
 
